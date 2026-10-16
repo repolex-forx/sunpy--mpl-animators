@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sunpy/mpl-animators/commit/c1d4fe4cd4d9a10971b417b93bbd1aedb0c4b5cd",
       "git:hexsha": "c1d4fe4cd4d9a10971b417b93bbd1aedb0c4b5cd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T02:42:22.938953+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sunpy/mpl-animators/commit/12637b5311ca5794e7b6ee689e04a52f860d7a6c",
